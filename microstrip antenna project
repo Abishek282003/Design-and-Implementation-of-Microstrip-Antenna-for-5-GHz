@@ -1,0 +1,25 @@
+Project Title: Design and Implementation of Microstrip Antenna for 5 GHz
+
+Overview:
+Designed and implemented a compact microstrip patch antenna optimized for 5 GHz, suitable for wireless communication systems. The project involved theoretical design, simulation, and practical testing to ensure optimal performance in terms of gain, bandwidth, and radiation pattern.
+
+Key Responsibilities:
+
+Selected appropriate substrate material (Rogers RO4350) based on dielectric constant and loss tangent.
+Designed antenna geometry (rectangular patch) using transmission line model to meet 5 GHz resonance frequency.
+Conducted parametric analysis on substrate thickness (h) and dielectric constant (εr) to optimize antenna performance.
+Simulated the design in CST Microwave Studio to verify S-parameters, gain, and radiation pattern.
+Fabricated the antenna and performed real-world testing to ensure conformance with the simulation results.
+Analyzed antenna parameters including return loss (S11), VSWR, bandwidth, and gain.
+Applied impedance matching techniques to improve antenna efficiency and performance.
+Technical Skills:
+
+Antenna design and simulation (CST Microwave Studio/ HFSS)
+RF/Microwave circuit design principles
+Microstrip patch antenna theory
+Testing and validation using network analyzers
+Impedance matching techniques
+Achievements:
+
+Successfully achieved a return loss below -10 dB and gain of 6 dBi at the target frequency.
+Ensured a compact design suitable for wireless communication applications (e.g., Wi-Fi, IoT).
